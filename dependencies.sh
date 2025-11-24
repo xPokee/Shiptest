@@ -4,8 +4,10 @@
 #Final authority on what's required to fully build the project
 
 # byond version
-export BYOND_MAJOR=515
-export BYOND_MINOR=1647
+# BUBBER EDIT - PREVIOUS: export BYOND_MAJOR=515
+export BYOND_MAJOR=516
+# BUBBER EDIT - PREVIOUS: export BYOND_MINOR=1647
+export BYOND_MINOR=1659
 
 #rust version
 export RUST_VERSION=1.81.0
